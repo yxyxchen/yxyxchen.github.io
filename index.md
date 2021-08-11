@@ -17,7 +17,7 @@ I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab
 
 
 ## Education
-- **Boston University** - Ph.D. in Psychology (2018 - Current)
+- **Boston University** - Ph.D. in Cognitive Science (2018 - Current)
 - **Tsinghua University** - B.S. in Pscyhology  (2014 - 2018)
 - **Peking University** - Dual degree in Economics (2014 - 2018)
 <br>
@@ -34,37 +34,23 @@ I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab
 
 ## Conference Proceedings 
 
-- **An evidence accumulation model of motivational and developmental influences over sustained attention**
+- **Learning and individual differences in adaptive persistence**
   <br>
-  **Ritz, H.**, DeGutis, J., Frank M.J., Esterman, M., & Shenhav, A. (2020)
+  **Chen, Y.**, Li, T., Lynch., J., & McGuire, J.T. (2020)
   <br>
-  42nd Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
+  17th Annual Meeting of the Society of Neuroeconomics (SNE)
 
-- **Dissociable influences of reward and punishment on adaptive cognitive control**
+- **Physiological Markers Predict the Adjustment of Learning Rates in Dynamic Environments**
   <br>
-  Leng, X., **Ritz, H.**, Yee, D., & Shenhav, A. (2020)
+  Kao, C., **Chen, Y.**, Ogbaselas, F., Gold, J., & Kable, J. (2019)
   <br>
-  42nd Annual Meeting of the Cognitive Science Society
+  17th Annual Meeting of the Society of Neuroeconomics (SNE)
 
-- **Parametric control of distractor-oriented attention**
+- **Individual-specific Functional Architecture and Activation Patterns in Medial Prefrontal Cortex**
   <br>
-  **Ritz, H.** & Shenhav, A. (2019)
+  Toro-Serey, C., **Chen, Y.**, Sussman, L., & McGuire, J.T. (2020)
   <br>
-  41st Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz and Shenhav - Parametric control of distractor-oriented attention.pdf)]
-  
-- **Decisions about reward and effort for the learning and control of dynamical systems**
-  <br>
-  **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
-  <br>
-  4th Multidisciplinary Conference on Reinforcement Learning and Decision Making
-  
-- **Behavioral evidence for PID-like feedback control**
-  <br>
-  **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
-  <br>
-  3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making
-
-
+  26th Annual meeting of the Organization for Human Brain Mapping (OHBM)
 <br>
 
 

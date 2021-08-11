@@ -40,13 +40,13 @@ I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab
   <br>
   17th Annual Meeting of the Society of Neuroeconomics (SNE)
 
-- **Physiological Markers Predict the Adjustment of Learning Rates in Dynamic Environments**
+- **Physiological markers predict the adjustment of learning rates in dynamic environments**
   <br>
   Kao, C., **Chen, Y.**, Ogbaselas, F., Gold, J., & Kable, J. (2019)
   <br>
   17th Annual Meeting of the Society of Neuroeconomics (SNE)
 
-- **Individual-specific Functional Architecture and Activation Patterns in Medial Prefrontal Cortex**
+- **Individual-specific functional architecture and activation patterns in medial prefrontal cortex**
   <br>
   Toro-Serey, C., **Chen, Y.**, Sussman, L., & McGuire, J.T. (2020)
   <br>
@@ -56,32 +56,13 @@ I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab
 
 ## Talks
 
-- **Optimal decisions in dynamical systems**
+- **Reinforcement learning model of adaptive persistence behavior**
   <br>
-  ConCat Series, New York University (2020)
-  <br>
-  P6 Series, Princeton University (2021)
-  
-- **Optimal control of effort for reward**
-  <br>
-  P6 Series, Princeton University (2019)
-  
-- **Model-based decision-making is associated with structure inference ability**
-  <br>
-  Reinforcement Learning and Decision Making (2019) *Workshop*
+  New England Research on Decision Making (NERD) Symposium, Harvard University (2019)
 
-- **Parametric control of distractor-oriented attention**
+- **A learning model of adaptive persistence decisions**
   <br>
-  Cognitive Science Society (2019) *Paper Session*
-
-- **Controlling learning and learning control**
-  <br>
-  CBC Series, Universitat Pompeu Fabra (2018)
-  
-- **Behavioral evidence for PID-like feedback control**
-  <br>
-  Society for Neuroscience (2017) *Nanosymposium*
-  
+  Brain, Behavior and Cognition Seminar, Boston University (2021)
 
 <br>
 

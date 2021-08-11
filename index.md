@@ -5,11 +5,12 @@ layout: homepage
 ## About
 I build reinforcement learning models that make human-like decisions, which aim to:
 <br>
+<br>
 (1) uncover the cognitive processes that facilitate human decision making,
 <br>
-(2) and stimulate the invention of more objective assessments of personality traits and mental health conditions. 
+(2) and stimulate the invention of new assessments of personality traits and mental diseases. 
 <br>
-
+<br>
 I'm currently a PhD candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/).
 <br>
 

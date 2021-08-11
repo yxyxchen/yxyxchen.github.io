@@ -11,7 +11,7 @@ I build reinforcement learning models that make human-like decisions, which aim 
 (2) and stimulate the invention of new assessments of personality traits and mental diseases. 
 <br>
 <br>
-I'm currently a PhD candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/).
+I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/).
 <br>
 
 
@@ -25,9 +25,9 @@ I'm currently a PhD candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/l
 
 ## Manuscripts in Preparation
 
-- **Bridging motor and cognitive control: It’s about time! (Spotlight)**
+- **A reinforcement learning model of adaptive persistence**
   <br>
-  **Chen, Y.**, & McGuire, . (2021)
+  **Chen, Y.**, & McGuire, J.T. (2021)
   <br> 
 <br>
 
@@ -68,7 +68,7 @@ I'm currently a PhD candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/l
 <br>
 
 
-## Selected Talks
+## Talks
 
 - **Optimal decisions in dynamical systems**
   <br>

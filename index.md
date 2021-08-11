@@ -18,7 +18,7 @@ I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab
 
 ## Education
 - **Boston University** - Ph.D. in Cognitive Science (2018 - Current)
-- **Tsinghua University** - B.S. in Pscyhology  (2014 - 2018)
+- **Tsinghua University** - B.S. in Psychology  (2014 - 2018)
 - **Peking University** - Dual degree in Economics (2014 - 2018)
 <br>
 

@@ -1,0 +1,16 @@
+title: Harrison Ritz
+position: Ph.D. Candidate
+affiliation: Brown University
+email: hritz (at) brown.edu
+email_address: hritz@brown.edu
+keywords: Harrison Ritz
+google_scholar: https://scholar.google.com/citations?user=2MGy7zwAAAAJ
+twitter: https://twitter.com/harrison_ritz
+github_link: https://github.com/harrisonritz
+avatar: ./assets/img/profilePic.jpg
+google_analytics: UA-31678746-1
+favicon: ./assets/img/profilePic.jpg
+favicon_dark: ./assets/img/profilePic.jpg
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://harrisonritz.github.io
+remote_theme: yaoyao-liu/minimal-light

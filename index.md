@@ -6,7 +6,7 @@ layout: homepage
 I build reinforcement learning models that make human-like decisions, which aim to:
 <br>
 <br>
-(1) uncover the cognitive processes that facilitate human decision making,
+(1) uncover the cognitive processes underlying human decision making,
 <br>
 (2) and stimulate the invention of new assessments of personality traits and mental diseases. 
 <br>

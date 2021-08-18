@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-I study human decision-making at the nexus of Psychology, Computer Science, and Economics (a.k.a. Neuroeconomics).
+My research lies at the nexus of Psychology, Computer Science, and Economics, a nascent field known as Neuroeconomics.
 
 I build and evaluate reinforcement learning models that make human-like decisions, which aims to:
 <br>
@@ -20,7 +20,7 @@ I also develop and share tools that automate modeling analysis and data collecti
 
 I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/). 
 <br>
-
+[[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] | [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 
 
 
 ## Education

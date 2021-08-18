@@ -3,15 +3,22 @@ layout: homepage
 ---
 
 ## About
-I build reinforcement learning models that make human-like decisions, which aim to:
+
+I study human decision-making at the nexus of Psychology, Computer Science, and Economics (a.k.a. Neuroeconomics).
+
+I build and evaluate reinforcement learning models that make human-like decisions, which aims to:
 <br>
 <br>
-(1) uncover the cognitive processes underlying human decision making,
+(1) uncover the cognitive processes behind everyday decision-making,
 <br>
-(2) and stimulate the invention of new assessments of personality traits and mental diseases. 
+(2) and stimulate the invention of model-based diagnosis for mental diseases. 
 <br>
 <br>
-I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/).
+
+I also develop and share tools that automate modeling analysis and data collection at scale, with the goal of helping more researchers leverage innovative computational tools in the era of big data.
+
+
+I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/). 
 <br>
 
 

@@ -12,7 +12,7 @@ I study human decision-making at the nexus of Psychology, Computer Science, and 
 <br>
 <br>
 
-I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/). 
+I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cdlab/lab-director/). 
 <br>
 [[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 
 
@@ -33,7 +33,7 @@ I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab
 <br>
 
 
-## Conference Proceedings 
+## Conference Presentations
 
 - **Learning and individual differences in adaptive persistence**
   <br>

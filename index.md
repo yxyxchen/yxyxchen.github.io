@@ -6,12 +6,11 @@ layout: homepage
 
 My research lies at the nexus of Psychology, Computer Science, and Economics, a nascent field known as Neuroeconomics.
 
-I build and evaluate reinforcement learning models that make human-like decisions, which aims to:
+My recent projects focus on building reinforcement learning models that make human-like decisions, which aims to:
 <br>
+- uncover the cognitive processes behind everyday decision-making,
 <br>
-(1) uncover the cognitive processes behind everyday decision-making,
-<br>
-(2) and stimulate the invention of model-based diagnosis for mental diseases. 
+- and stimulate the invention of model-based diagnosis for mental diseases. 
 <br>
 <br>
 

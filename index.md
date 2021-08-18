@@ -17,7 +17,7 @@ I build and evaluate reinforcement learning models that make human-like decision
 
 I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/). 
 <br>
-[[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] | [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 
+[[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 
 
 
 ## Education

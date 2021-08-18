@@ -15,9 +15,6 @@ I build and evaluate reinforcement learning models that make human-like decision
 <br>
 <br>
 
-I also develop and share tools that automate modeling analysis and data collection at scale, with the goal of helping more researchers leverage innovative computational tools in the era of big data.
-
-
 I'm currently a Ph.D. candidate with [Joseph McGuire](https://sites.bu.edu/cdlab/lab-director/). 
 <br>
 [[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] | [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 

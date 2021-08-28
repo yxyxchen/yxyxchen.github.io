@@ -12,6 +12,7 @@ I am a Ph.D. researcher at Boston University, working in [Cognition & Decision L
 
 I also develop automated tools for data analysis and online experimentation at scale, with the goal of increasing the accessibility of computational tools in the era of big data.
 <br>
+<br>
 [[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 
 
 

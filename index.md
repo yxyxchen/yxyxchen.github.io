@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-My research lies at the nexus of Psychology, Computer Science, and Economics. I build reinforcement learning models that make human-like decisions, which aims to:
+I am a Ph.D. researcher in Human Behavior at Boston University. I build reinforcement learning models that make human-like decisions, which aims to:
 - uncover the cognitive processes behind everyday decision-making,
 <br>
 - and stimulate the invention of model-based diagnosis for mental diseases. 

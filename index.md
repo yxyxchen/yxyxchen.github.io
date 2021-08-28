@@ -5,7 +5,6 @@ layout: homepage
 ## About
 
 I study human decision-making at the nexus of Psychology, Computer Science, and Economics. During my Ph.D., I build reinforcement learning models that make human-like decisions, which aims to:
-<br>
 - uncover the cognitive processes behind everyday decision-making,
 <br>
 - and stimulate the invention of model-based diagnosis for mental diseases. 

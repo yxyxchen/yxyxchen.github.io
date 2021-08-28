@@ -32,8 +32,21 @@ I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cd
   **Chen, Y.**, & McGuire, J.T. 
 <br>
 
+## Talks
+
+- **BBC Seminar, Boston University (2021)
+
+- **(NERD) Symposium, Harvard University (2019)
+<br>
+
 ## Conference Presentations
 
+- **Individual-specific functional architecture and activation patterns in medial prefrontal cortex**
+  <br>
+  Toro-Serey, C., **Chen, Y.**, Sussman, L., & McGuire, J.T. (2020)
+  <br>
+  26th Annual meeting of the Organization for Human Brain Mapping (OHBM)
+  
 - **Learning and individual differences in adaptive persistence**
   <br>
   **Chen, Y.**, Li, T., Lynch., J., & McGuire, J.T. (2020)
@@ -45,24 +58,7 @@ I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cd
   Kao, C., **Chen, Y.**, Ogbaselas, F., Gold, J., & Kable, J. (2019)
   <br>
   17th Annual Meeting of the Society of Neuroeconomics (SNE)
-
-- **Individual-specific functional architecture and activation patterns in medial prefrontal cortex**
-  <br>
-  Toro-Serey, C., **Chen, Y.**, Sussman, L., & McGuire, J.T. (2020)
-  <br>
-  26th Annual meeting of the Organization for Human Brain Mapping (OHBM)
 <br>
-
-
-## Talks
-
-- **Reinforcement learning model of adaptive persistence behavior**
-  <br>
-  New England Research on Decision Making (NERD) Symposium, Harvard University (2019)
-
-- **A learning model of adaptive persistence decisions**
-  <br>
-  Brain, Behavior and Cognition Seminar, Boston University (2021)
 
 <br>
 

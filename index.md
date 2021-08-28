@@ -34,11 +34,9 @@ I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cd
 
 ## Talks
 
-- **BBC Seminar, Boston University (2021)
-
-- **(NERD) Symposium, Harvard University (2019)
+- **BBC Seminar, Boston University (2021)**
+- **(NERD) Symposium, Harvard University (2019)**
 <br>
-
 ## Conference Presentations
 
 - **Individual-specific functional architecture and activation patterns in medial prefrontal cortex**
@@ -46,7 +44,7 @@ I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cd
   Toro-Serey, C., **Chen, Y.**, Sussman, L., & McGuire, J.T. (2020)
   <br>
   26th Annual meeting of the Organization for Human Brain Mapping (OHBM)
-  
+
 - **Learning and individual differences in adaptive persistence**
   <br>
   **Chen, Y.**, Li, T., Lynch., J., & McGuire, J.T. (2020)

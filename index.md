@@ -35,8 +35,9 @@ I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cd
 ## Talks
 
 - **BBC Seminar, Boston University (2021)**
-- **(NERD) Symposium, Harvard University (2019)**
+- **NERD Symposium, Harvard University (2019)**
 <br>
+
 ## Conference Presentations
 
 - **Individual-specific functional architecture and activation patterns in medial prefrontal cortex**

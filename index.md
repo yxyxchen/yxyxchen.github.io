@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-I am a Ph.D. researcher in Human Behavior at Boston University. I build reinforcement learning models that make human-like decisions, which aims to:
+I am a Ph.D. researcher at Boston University, working in [Cognition & Decision Lab](https://sites.bu.edu/cdlab/). I build reinforcement learning models that make human-like decisions, which aims to:
 - uncover the cognitive processes behind everyday decision-making,
 <br>
 - and stimulate the invention of model-based diagnosis for mental diseases. 
@@ -12,8 +12,6 @@ I am a Ph.D. researcher in Human Behavior at Boston University. I build reinforc
 <br>
 
 I also develop automated tools for data analysis and online experimentation at scale, with the goal of increasing the accessibility of computational tools in the era of big data.
-
-I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cdlab/lab-director/). 
 <br>
 [[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 
 

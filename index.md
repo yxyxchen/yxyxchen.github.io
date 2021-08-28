@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-I am a Ph.D. researcher in human behavior and a freelance data scientist. I build human-like reinforcement learning models, develop tools that automate large-scale modeling analysis and data collection, and communicate data-driven insights to a diverse audience.
+I am a Ph.D. researcher studying human behavior in an interdisciplinary field (a.k.a Neuroeconomics) and a freelance data scientist. Back in college, I majored in Psychology and Economics and serendipitously found my interest in Programming and Statistics. Now, I build human-like reinforcement learning models and develop automated tools for data analysis and online experimentation. 
 
 <br>
 [[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 

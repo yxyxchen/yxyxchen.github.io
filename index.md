@@ -6,9 +6,7 @@ layout: homepage
 
 I am a Ph.D. researcher studying human behavior using interdisciplinary methods.
 
-
-Back in college, I majored in Psychology and Economics and serendipitously found my interest in Programming and Statistics. 
-
+Back in college, I majored in Psychology and Economics and serendipitously found my interest in programming and Statistics. 
 
 Now, I build human-like reinforcement learning models and develop automated tools for data analysis and online experimentation. 
 

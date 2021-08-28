@@ -12,6 +12,8 @@ I study human decision-making at the nexus of Psychology, Computer Science, and 
 <br>
 <br>
 
+I also develop automated tools for data analysis and online experimentation at scale, with the goal of increasing the accessibility of computational tools in the era of big data.
+
 I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cdlab/lab-director/). 
 <br>
 [[One-page Resume](./assets/Resume/Resume_YixinChen.pdf)] [[Academic CV](./assets/CV/CV_YixinChen.pdf)] 

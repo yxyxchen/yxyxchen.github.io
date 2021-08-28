@@ -31,9 +31,7 @@ I'm currently a Ph.D. Candidate with [Joseph T. McGuire](https://sites.bu.edu/cd
 - **A reinforcement learning model of adaptive persistence**
   <br>
   **Chen, Y.**, & McGuire, J.T. 
-  <br> 
 <br>
-
 
 ## Conference Presentations
 
